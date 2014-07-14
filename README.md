@@ -9,3 +9,4 @@ The incentives are active for a data range and are predictable (in general). Thi
 
 This model has been developed using R and utilizes the Z statistics and KS principles to identify outliers.
 
+Please send me a pull request if you need the CSV data to test this model
